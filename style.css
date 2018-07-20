@@ -1,0 +1,16 @@
+.h1{text-align: center;
+background-color: black;
+color: white;
+}
+
+.resizeImg{
+height:200px;
+width: 200px;
+transform: rotate(90deg);
+}
+
+.text{
+
+float: right;
+
+}
